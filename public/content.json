@@ -1,0 +1,84 @@
+{
+  "trucks": [
+    {
+      "title": "Engine 21",
+      "officer": "Lt. Scott Kelly",
+      "helmetUrl": "/images/helmets/helmet-e21.png",
+      "truckUrl": "/images/trucks/engine-21.png",
+      "driversTitle": "Crew",
+      "drivers": ["Barone, T", "Fusco-Gessick, P", "Ocasio, J", "Pulimoottil, C"],
+      "qualifiedDriversTitle": "Qualified Drivers",
+      "qualifiedDrivers": ["Ryan Jr., D", "Languish, D", "Dutcher, C", "Anderson, D", "Sapel, M", "Flager, J", "Cooke, D", "Smith, J", "Lemieux, R", "Normandin, J", "Silvernail, T", "Barone, T", "Kelly, S"]
+    },
+    {
+      "title": "Truck 20",
+      "officer": "Lt. Joe Normandin",
+      "helmetUrl": "/images/helmets/helmet-t20.png",
+      "truckUrl": "/images/trucks/truck-20.png",
+      "driversTitle": "Crew",
+      "drivers": ["Allen, MC", "Apuzzi, A", "Lemieux, R", "Reynolds, D", "Smith, J"],
+      "qualifiedDriversTitle": "Qualified drivers by seniority",
+      "qualifiedDrivers": ["Ryan Jr., D", "Languish, D", "Dutcher, C", "Anderson, D", "Sapel, M", "Huta, R", "Cooke, D", "Smith, J", "Lemieux, R", "Normandin, J", "Silvernail, T", "Barone, T", "Kelly, S"]
+    },
+    {
+      "title": "Truck 22",
+      "officer": "Lt. Mike Sapel",
+      "helmetUrl": "",
+      "truckUrl": "/images/trucks/truck-22.png",
+      "driversTitle": "Crew",
+      "drivers": ["Bierman, B", "Cooke, D", "Flagler, J", "Languish, R", "Morris, A", "Siegel, A"],
+      "qualifiedDriversTitle": "Qualified drivers by seniority",
+      "qualifiedDrivers": ["Ryan Jr., D", "Languish, D", "Dutcher, C", "Anderson, D", "Huta, R", "Flager, J", "Cooke, D", "Smith, J", "Lemieux, R", "Normandin, J", "Silvernail, T", "Barone, T", "Kelly, S"]
+    },
+    {
+      "title": "Squad 24",
+      "officer": "Lt. Russ Huta",
+      "helmetUrl": "/images/helmets/helmet-s24.png",
+      "truckUrl": "/images/trucks/squad-24.png",
+      "driversTitle": "Crew",
+      "drivers": ["Khalife, P", "Minick, K", "Rivera, A", "Sanchez, M", "Uhl, K"],
+      "qualifiedDriversTitle": "Qualified drivers by seniority",
+      "qualifiedDrivers": ["Ryan Jr., D", "Languish, D", "Dutcher, C", "Sapel, M", "Huta, R", "Flager, J", "Cooke, D", "Smith, J", "Lemieux, R", "Normandin, J", "Silvernail, T", "Barone, T", "Uhl, K", "Kelly, S"]
+    },
+    {
+      "title": "M26",
+      "officer": "Capt. Paul Spagnola",
+      "helmetUrl": "",
+      "truckUrl": "/images/trucks/956.png",
+      "driversTitle": "Fire Police",
+      "drivers": ["Cazzato, A", "Emery, C", "Gervais, M", "Oldrich, G", "Roberts, M", "Silvernail, T", "Spagnola, S", "Stoker, H", "Stricos, T", "Williams, G"]
+    }
+  ],
+  "events": [
+    { "imageUrl": "/images/events/a1.jpg", "title": "Owens Corning" },
+    { "imageUrl": "/images/events/a2.JPG", "title": "" },
+    { "imageUrl": "/images/events/a3.jpg", "title": "Owens Corning" },
+    { "imageUrl": "/images/events/a4.jpg", "title": "Owens Corning" }
+  ],
+  "dates": [
+    { "date": "2/17", "desc": "FF1 @ Guilderland Tower" },
+    { "date": "2/20", "desc": "Fire Prevention @ Bethlehem Library"},
+    { "date": "3/10", "desc": "Meeting @ Station 1" },
+    { "date": "3/14", "desc": "Irish Night" },
+    { "date": "3/29", "desc": "Pancake Breakfast" }
+  ],
+  "reminder": {
+    "title": "Reminder",
+    "accent": "sky",
+    "lines": [
+      "Dress Uniform mandatory for February meeting"
+    ]
+  },
+  "timings": {
+    "trucksSeconds": 15,
+    "datesSeconds": 4,
+    "eventsSeconds": 9,
+    "reminderSeconds": 6,
+    "flyersSeconds": 7,
+    "syncAll": false
+  },
+  "flyers": [
+  { "imageUrl": "/images/flyers/SlingerlandsTalk.png" }
+  ]
+
+}
